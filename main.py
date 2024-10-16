@@ -17,7 +17,7 @@ def index():
     return {
         "Mensaje de bienvenida": [
             "Proyecto Individual 1 - Sistema Recomendacion STEAM",
-            "Desarrollado por: Carolina Cardenas"
+            "Desarrollado por: Miguel Flórez Betancourt"
         ]
     }
 
